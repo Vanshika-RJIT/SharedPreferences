@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="fetch">Fetch</string>
+    <string name="welcome">Welcome</string>
+</resources>
